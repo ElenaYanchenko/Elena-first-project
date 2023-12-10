@@ -1,1 +1,1 @@
-class Convertrr {}
+class Convertrr {123}
